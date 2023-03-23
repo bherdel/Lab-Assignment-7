@@ -1,3 +1,6 @@
+//Brendan Herdel
+//Lab Assignment 7
+
 #include <stdio.h>
 
 void bubbleSort(int arr[], int n)
